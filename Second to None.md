@@ -26,6 +26,7 @@ click the oldest entry you can find clearly 2020 right here
 ![3](<images/Pasted image 20251218084414.png>)
 
 choose the oldest date which seems to be `7th June`
+
 ![4](<images/Pasted image 20251218084515.png>)
 
 click the timestamp on it `10:32:17`
