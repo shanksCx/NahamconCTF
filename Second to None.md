@@ -40,8 +40,9 @@ click the timestamp on it `10:32:17`
 
 notice the  `20200617045449`
 
-which translates to `2020-06-17 04:54:49` . Notice it really isn't June 7,2020 that we had clicked but that means that it was a false alarm . Looking at `web.archive.org` once more we do see this 
-`2020-06-17 04:54:49` as the next earliest timestamp 
+which translates to `2020-06-17 04:54:49` . Notice it really isn't the June 7,2020 that we had clicked but that only means that it was a false alarm . Looking at `web.archive.org` once more we do see this 
+`2020-06-17 04:54:49` as the next earliest timestamp which translates to the timestamp we had gotten.
+
 ![6](<images/Pasted image 20251218085502.png>)
 
 so we got the flag :
